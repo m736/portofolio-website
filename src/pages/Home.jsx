@@ -1,6 +1,6 @@
 import React from "react";
 import ThemeToggle from "../components/ThemeToggle";
-import { StarBackGround } from "@/components/starBackGround";
+import { StarBackGround } from "../components/StarBackGround";
 import Navbar from "../components/Navbar";
 import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
